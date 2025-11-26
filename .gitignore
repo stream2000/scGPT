@@ -153,3 +153,7 @@ references/
 examples/save
 examples/modality_pred/data
 figures/
+
+.idea/
+heart_model_experiment/
+scgpt_env/
